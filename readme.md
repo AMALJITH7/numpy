@@ -1,1 +1,1 @@
-haii
+Slicing using Numpy
